@@ -1,7 +1,7 @@
 Ithaca
 ========
 
-Ithaca is a simple PHP Authentication class. It bears the name of the small Greek island [Ithaca](https://en.wikipedia.org/wiki/Ithaca)
+Ithaca is a simple PHP Authentication class. It bears the name of the Greek island [Ithaca](https://en.wikipedia.org/wiki/Ithaca)
 
 PHP 5.3.0 or newer is recommended. Tested with PHP 7
 
