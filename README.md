@@ -10,13 +10,26 @@ Copyright Christos Pontikis http://www.pontikis.net
 License [MIT](https://github.com/pontikis/ithaca/blob/master/MIT_LICENSE)
 
 
-External classes
-------------------
+## Features
 
-Ithaca uses http://openwall.com/phpass/
+* Fully customizable (can be integrated in any PHP website)
+* Databases supported: MySQL (or MariaDB), PostgreSQL
+* Create account (sign up)
+* Login (sign in)
+* Logoff (sign out)
+* Validate email
+* Validate username
+* Validate password
+* Password strength
+* Suggest password
+
+## External classes
+
+Ithaca uses 
+* Dacapo (Simple PHP database wrapper) https://github.com/pontikis/dacapo
+* Portable PHP password hashing framework http://openwall.com/phpass/
 
 
-Documentation
--------------
+## Documentation
 
 See ``docs/doxygen/html`` for html documentation. 

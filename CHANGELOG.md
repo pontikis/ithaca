@@ -15,3 +15,14 @@ Release 0.7.0 (06 Jul 2017)
 ---------------------------
 
 * basic functionality
+
+    * Fully customizable (can be integrated in any PHP website)
+    * Databases supported: MySQL (or MariaDB), PostgreSQL
+    * Create account (sign up)
+    * Login (sign in)
+    * Logoff (sign out)
+    * Validate email
+    * Validate username
+    * Validate password
+    * Password strength
+    * Suggest password
